@@ -42,7 +42,7 @@
 
 
     <!-- INERTIAL SENSOR-->
-    <xi:include href="hardware/inertials/head-inertial.xml" />
+ <!--   <xi:include href="hardware/inertials/head-inertial.xml" /> -->
 <!-- <xi:include href="hardware/inertials/waist-inertial.xml" /> -->
 
     <!-- ANALOG SENSOR MAIS -->
@@ -91,9 +91,9 @@
     <xi:include href="calibrators/torso-calib.xml" />
     <xi:include href="calibrators/head-calib.xml" />
 
-    <!-- CARTESIANS -->
+    <!-- CARTESIANS
     <xi:include href="cartesian/left_arm-cartesian.xml" />
-    <xi:include href="cartesian/right_arm-cartesian.xml" />
+    <xi:include href="cartesian/right_arm-cartesian.xml" />-->
 
     <!-- ESTIMATORS -->
     <xi:include href="estimators/wholebodydynamics.xml" />
