@@ -98,7 +98,7 @@
         <xi:include href="cartesian/right_arm-cartesian.xml" /> 
         
         <!-- ESTIMATORS -->
-        <xi:include href="estimators/wholebodydynamics.xml" />
+        <xi:include href="estimators/wholebodydynamics_standup.xml" />
         
         <!-- ROS-based publisher -->
 <!--        
